@@ -1,12 +1,8 @@
-## Hi there 👋
+## Welcome to the Goffaux-Lab!
 
-<!--
+Here is a brief description and link to each of our repositories: 
 
-**Here are some ideas to get you started:**
+### [psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)
+Psychopy experiment for running Polar, Eccentricity and Bars checkerboard
+stimuli during an fmri experiment.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
