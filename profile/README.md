@@ -1,4 +1,4 @@
-## Welcome to the Goffaux-Lab!
+## Welcome to the [Goffaux-Lab](https://sites.uclouvain.be/goffauxlab/index.html)!
 
 See
 [how-to-use-goffaux-lab](https://github.com/Goffaux-Lab/how-to-use-goffaux-lab)
