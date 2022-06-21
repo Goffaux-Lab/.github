@@ -1,4 +1,4 @@
-## Welcome to the [Goffaux-Lab](https://sites.uclouvain.be/goffauxlab/index.html)!
+## Welcome to the Goffaux-Lab!
 
 See our [Open Science Framework](https://osf.io/nxy5s/) profile and the
 [Goffaux-Lab website](https://sites.uclouvain.be/goffauxlab/index.html).
