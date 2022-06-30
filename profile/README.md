@@ -8,6 +8,7 @@ See
 for a quick guide on how to update/share your code with the lab.  
 
 ### Experiments
-[psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy);
-[Benton-Task](https://github.com/Goffaux-Lab/Benton-Task);
-[RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)
+[psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
+[Benton-Task](https://github.com/Goffaux-Lab/Benton-Task)\
+[RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)\
+[RadialBias](https://github.com/Goffaux-Lab/RadialBias)\
