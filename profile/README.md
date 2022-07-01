@@ -13,4 +13,5 @@ here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Gi
 [psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
 [Benton-Task](https://github.com/Goffaux-Lab/Benton-Task)\
 [RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)\
-[RadialBias](https://github.com/Goffaux-Lab/RadialBias)
+[RadialBias](https://github.com/Goffaux-Lab/RadialBias)\
+[ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod)
