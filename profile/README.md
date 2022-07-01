@@ -14,4 +14,5 @@ here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Gi
 [Benton-Task](https://github.com/Goffaux-Lab/Benton-Task)\
 [RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)\
 [RadialBias](https://github.com/Goffaux-Lab/RadialBias)\
-[ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod)
+[ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod)\
+[fMRI_face_localiser](https://github.com/Goffaux-Lab/fMRI_face_localiser)
