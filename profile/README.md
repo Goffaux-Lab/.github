@@ -1,4 +1,4 @@
-## Welcome to the [Goffaux-Lab](https://sites.uclouvain.be/goffauxlab/index.html)!
+## Welcome to the Goffaux-Lab!
 
 See our [Open Science Framework](https://osf.io/nxy5s/) profile and the
 [Goffaux-Lab website](https://sites.uclouvain.be/goffauxlab/index.html).
@@ -9,4 +9,8 @@ for a quick guide on how to update/share your code with the lab. For a fuller
 overview on getting started with github (including branching) [see
 here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf).
 
-
+### Experiments
+[psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
+[Benton-Task](https://github.com/Goffaux-Lab/Benton-Task)\
+[RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)\
+[RadialBias](https://github.com/Goffaux-Lab/RadialBias)
