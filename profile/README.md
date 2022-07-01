@@ -5,6 +5,8 @@ See our [Open Science Framework](https://osf.io/nxy5s/) profile and the
 
 See
 [how-to-use-goffaux-lab](https://github.com/Goffaux-Lab/how-to-use-goffaux-lab)
-for a quick guide on how to update/share your code with the lab.  
+for a quick guide on how to update/share your code with the lab. For a fuller
+overview on getting started with github (including branching) [see
+here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf).
 
 
