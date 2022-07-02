@@ -27,5 +27,5 @@ If you're about to add a link to the list above, then please make sure the link 
 
 Below is how to add a link: ALSO REMEMBER TO ADD A BACKSLASH ONTO THE 2ND TO LAST ITEM!!! (this makes a newline :) 
 
-[<the reop name here>](https://github.com/Goffaux-Lab/<the reop name here>)
+[<the repo name here>](https://github.com/Goffaux-Lab/<the repo name here>)
 -->
