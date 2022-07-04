@@ -16,7 +16,8 @@ here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Gi
 [RadialBias](https://github.com/Goffaux-Lab/RadialBias)\
 [ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod)\
 [fMRI_face_localiser](https://github.com/Goffaux-Lab/fMRI_face_localiser)\
-[face_morph_congruency_paradigm](https://github.com/Goffaux-Lab/face_morph_congruency_paradigm)
+[face_morph_congruency_paradigm](https://github.com/Goffaux-Lab/face_morph_congruency_paradigm)\
+[CtF_3T_fMRI_project](https://github.com/Goffaux-Lab/CtF_3T_fMRI_project)
 
 <!-- 
 HELLO FELLOW SCIENTIST! 
