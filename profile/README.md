@@ -9,13 +9,16 @@ for a quick guide on how to update/share your code with the lab. See here for a 
 overview on [getting started with github (including branching)](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf).
 
 ### Experiments
-[psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
+#### Behavioural
 [Benton-Task](https://github.com/Goffaux-Lab/Benton-Task)\
 [RadApt_filterednoise](https://github.com/Goffaux-Lab/RadApt_filterednoise)\
 [RadialBias](https://github.com/Goffaux-Lab/RadialBias)\
 [ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod)\
+[face_morph_congruency_paradigm](https://github.com/Goffaux-Lab/face_morph_congruency_paradigm)
+
+#### fMRI 
+[psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
 [fMRI_face_localiser](https://github.com/Goffaux-Lab/fMRI_face_localiser)\
-[face_morph_congruency_paradigm](https://github.com/Goffaux-Lab/face_morph_congruency_paradigm)\
 [CtF_3T_fMRI_project](https://github.com/Goffaux-Lab/CtF_3T_fMRI_project)
 
 <!-- 
