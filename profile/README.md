@@ -5,9 +5,8 @@ See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile an
 
 See
 [how-to-use-goffaux-lab](https://github.com/Goffaux-Lab/how-to-use-goffaux-lab)
-for a quick guide on how to update/share your code with the lab. For a fuller
-overview on getting started with github (including branching) [see
-here](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf).
+for a quick guide on how to update/share your code with the lab. See here for a fuller
+overview on [getting started with github (including branching)](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf).
 
 ### Experiments
 [psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy)\
