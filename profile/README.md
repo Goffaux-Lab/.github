@@ -20,10 +20,13 @@ Below is how to add a link:
 See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile and the
 [Goffaux-Lab website](https://sites.uclouvain.be/goffauxlab/index.html).
 
-See
+- See
 [how-to-use-goffaux-lab](https://github.com/Goffaux-Lab/how-to-use-goffaux-lab)
-for a quick guide on how to update/share your code with the lab. See here for a fuller
-overview on [getting started with github (including branching)](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf). For lab members, there is the [documentation-and-snippets](https://github.com/Goffaux-Lab/documentation-and-snippets) repository contains a collection of random but useful things that don't merit their own repository.
+for a quick guide on how to update/share your code with the lab. 
+- See here for a fuller
+overview on [getting started with github (including branching)](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf). 
+- For lab members, there is the [documentation-and-snippets](https://github.com/Goffaux-Lab/documentation-and-snippets) repository contains a collection of random but useful things that don't merit their own repository.
+- See [all open pull requests on Goffaux-Lab](https://github.com/pulls?user=Goffaux-Lab).
 
 ### Experiments
 #### Behavioural
