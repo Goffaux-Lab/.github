@@ -1,20 +1,3 @@
-
-<!-- 
-HELLO FELLOW SCIENTIST! 
-
-The message you are about to read is TOP SECRET.
-
-If you're about to add a link to an experiment, then please make sure the link points to the repo on the Goffaux-Lab account, not the one on your personal account so as to not send people away to a personal account (where the code my be in the middle of being updated, and might confuse people who want to fork and contribute to the version that the lab would use in the future).
-
-Below is how to add a link:
-
-[<the repo name here>](https://github.com/Goffaux-Lab/<the repo name here>) &emsp;&emsp;
-                                                                              ^    ^
-                                                                            These allows
-                                                                            a nice gap in
-                                                                            between links
--->
-
 ## Welcome to the Goffaux-Lab!
 
 See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile and the
