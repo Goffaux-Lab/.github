@@ -26,7 +26,7 @@ for a quick guide on how to update/share your code with the lab.
 - See here for a fuller
 overview on [getting started with github (including branching)](https://github.com/Goffaux-Lab/documentation-and-snippets/blob/main/Git_Github_mini-workshop.pdf). 
 - For lab members, there is the [documentation-and-snippets](https://github.com/Goffaux-Lab/documentation-and-snippets) repository which contains a collection of random but useful things that don't merit their own repository.
-- See [all open pull requests on Goffaux-Lab](https://github.com/pulls?user=Goffaux-Lab).
+- See [all open pull requests](https://github.com/pulls?user=Goffaux-Lab) and [all open issues](https://github.com/search?q=user%3AGoffaux-Lab+state%3Aopen&type=Issues&ref=advsearch&l=&l=) on Goffaux-Lab.
 
 ### Experiments
 #### Behavioural
