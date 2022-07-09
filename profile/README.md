@@ -1,7 +1,25 @@
 ## Welcome to the Goffaux-Lab!
 
-See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile and the
-[Goffaux-Lab website](https://sites.uclouvain.be/goffauxlab/index.html).
+The human face conveys a wealth of complex information (e.g., identity, gaze,
+emotion, gender, etc.) critical for social interactions. Despite face
+information is conveyed via subtle variations captured by the retina, its
+analysis by the human visual system is fast and accurate.
+
+Our goal is to understand how the human brain solves the complex task of face
+perception.
+
+By means of psychophysical, electrophysiological, and neuroimaging techniques,
+we explore what, when, and where face information is integrated in the brain to
+yield rich and complex face percepts.
+
+The lab is part of two research institutes at the Université Catholique de
+Louvain (UCL, Belgium): the Institute of Research in Psychology (IPSY) and the
+Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and
+Brussels.
+
+See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile
+and the [Goffaux-Lab
+website](https://sites.uclouvain.be/goffauxlab/index.html).
 
 ### Experiments
 #### Behavioural
