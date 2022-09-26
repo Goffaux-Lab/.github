@@ -28,6 +28,7 @@ website](https://sites.uclouvain.be/goffauxlab/index.html).
 [RadialBias](https://github.com/Goffaux-Lab/RadialBias) &emsp;&emsp;
 [ori_dependent_cont_mod](https://github.com/Goffaux-Lab/ori_dependent_cont_mod) &emsp;&emsp;
 [face_morph_congruency_paradigm](https://github.com/Goffaux-Lab/face_morph_congruency_paradigm) &emsp;&emsp;
+[CtF_backwardmasking](https://github.com/Goffaux-Lab/CtF_backwardmasking_behavioural) &emsp;&emsp;
 
 #### fMRI 
 [psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy) &emsp;&emsp;
