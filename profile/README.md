@@ -34,3 +34,6 @@ website](https://sites.uclouvain.be/goffauxlab/index.html).
 [psychopy-retinotopy](https://github.com/Goffaux-Lab/psychopy-retinotopy) &emsp;&emsp;
 [fMRI_face_localiser](https://github.com/Goffaux-Lab/fMRI_face_localiser) &emsp;&emsp;
 [CtF_3T_fMRI_project](https://github.com/Goffaux-Lab/CtF_3T_fMRI_project) &emsp;&emsp;
+
+#### Links to eye-tracking experiments :
+[Saccadic_choice](https://github.com/Goffaux-Lab/Saccadic_choice) &emsp;&emsp;
