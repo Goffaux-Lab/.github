@@ -38,5 +38,5 @@ website](https://sites.uclouvain.be/goffauxlab/index.html).
 #### Links to eye-tracking experiments
 [Saccadic_choice](https://github.com/Goffaux-Lab/Saccadic_choice) &emsp;&emsp;
 
-#### Ressource
+### Ressources
 [Bayesian_tutorial](https://github.com/Goffaux-Lab/Bayesian_tutorial) &emsp;&emsp;
