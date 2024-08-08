@@ -13,7 +13,7 @@ we explore what, when, and where face information is integrated in the brain to
 yield rich and complex face percepts.
 
 The lab is part of two research institutes at the Université Catholique de
-Louvain (UCL, Belgium): the Institute of Research in Psychology (IPSY) and the
+Louvain (UCLouvain, Belgium): the Institute of Research in Psychology (IPSY) and the
 Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and
 Brussels.
 
