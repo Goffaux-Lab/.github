@@ -38,5 +38,5 @@ website](https://goffaux-lab.github.io/goffaux-lab/).
 #### Eyetracking
 [Saccadic_choice](https://github.com/Goffaux-Lab/Saccadic_choice) &emsp;&emsp;
 
-### Ressources
+### Resources
 [Bayesian_tutorial](https://github.com/Goffaux-Lab/Bayesian_tutorial) &emsp;&emsp;
