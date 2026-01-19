@@ -19,7 +19,7 @@ Brussels.
 
 See Valerie Goffaux's [Open Science Framework](https://osf.io/zxjkh/) profile
 and the [Goffaux-Lab
-website](https://sites.uclouvain.be/goffauxlab/index.html).
+website](https://goffaux-lab.github.io/goffaux-lab/).
 
 ### Experiments
 #### Behavioural
